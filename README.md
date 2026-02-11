@@ -35,13 +35,7 @@ CloudWatch Metrics → Alarm Trigger → SNS Notification
 
 ## 🧭 Architecture Diagram
 
-*(Add your diagram image here)*
-
-Example:
-
-```
-![Architecture Diagram](Scalable Web Application Architecture on AWS.png)
-```
+![AWS Architecture](Scalable Web Application Architecture on AWS.png)
 
 ---
 
